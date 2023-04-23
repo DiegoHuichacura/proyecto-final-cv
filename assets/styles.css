@@ -1,0 +1,42 @@
+
+.roboto1{
+    color: #707070;
+}
+.color{
+    background-color: #353d37;
+}
+.descripcion {
+   
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+.experiencia {
+    
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+
+.educacion{
+    
+    padding: 20px;
+    color: black;
+    text-align: center;
+}
+.proyectos{
+    text-align: center;
+   background-color: burlywood;
+}
+.footer{
+    background-color: brown;
+    padding: 20px;
+    color: black;
+    text-align: center;
+
+}
+.boton{
+    background-color: white;
+    color: black;
+    text-decoration: dotted;
+}
