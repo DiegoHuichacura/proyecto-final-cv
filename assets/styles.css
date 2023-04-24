@@ -1,40 +1,61 @@
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
 
+/* BARRA DE NAVEGACION */
 .roboto1{
     color: #707070;
 }
 .color{
     background-color: #353d37;
 }
+
+/* SOBRE MI */
 .descripcion {
-   
-    padding: 20px;
-    color: black;
-    text-align: center;
-}
-.experiencia {
-    
+   background-color: burlywood;
     padding: 20px;
     color: black;
     text-align: center;
 }
 
+/* SECCION DE EXPERIENCIA */
+.experiencia {
+    background-color: #707070;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+/* SECCION DE EDUCACION */
 .educacion{
-    
+    background-color: burlywood;
     padding: 20px;
     color: black;
     text-align: center;
 }
+
+/* SECCION DE PROYECTOS */
 .proyectos{
     text-align: center;
-   background-color: burlywood;
+    background-color: #707070;
+   padding-bottom: 20px;
 }
+.proyectos h2{
+    color: white;
+    padding-top: 20px;
+}
+
+/* SECCION DE FOOTER */
 .footer{
-    background-color: brown;
+    background-color: #353d37;
     padding: 20px;
     color: black;
     text-align: center;
-
 }
+
+/* SECCION DE BOTONES */
 .boton{
     background-color: white;
     color: black;
